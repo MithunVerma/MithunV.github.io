@@ -217,6 +217,12 @@ nav div:hover a{
 .skills img{
     margin-right: 1em;
 }
+.logocis>a {
+    background: url(https://www.cisin.com/images/logo.png);
+    width: 113px;
+    height: 68px;
+    display: block;
+}
 
 /* contact section */
 
