@@ -222,6 +222,8 @@ nav div:hover a{
     width: 113px;
     height: 68px;
     display: block;
+    background-color: #141414;
+    border-radius: 5%;
 }
 
 /* contact section */
